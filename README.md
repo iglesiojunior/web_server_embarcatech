@@ -1,7 +1,7 @@
 
 # 🌐 WebServer Embarcado com Raspberry Pi Pico W
 
-Projeto desenvolvido como parte da disciplina de Internet das Coisas no Instituto Federal do Piauí (IFPI), Campus Teresina Central. Este sistema integra sensores físicos com um servidor na nuvem usando a placa **BitDogLab** (baseada no **Raspberry Pi Pico W**), permitindo monitoramento remoto via ThingSpeak e uma interface web.
+Projeto desenvolvido como atividade prática da Residência Tecnológica EmbarcaTech, no núcleo do Instituto Federal do Piauí (IFPI) — Campus Teresina Central. Este sistema integra sensores físicos com um servidor na nuvem usando a placa **BitDogLab** (baseada no **Raspberry Pi Pico W**), permitindo monitoramento remoto via ThingSpeak e uma interface web.
 
 ## 📌 Visão Geral
 
